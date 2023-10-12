@@ -1,8 +1,0 @@
-Account was added.
-
-File uploaded into account.
-
-Account does not exist.
-
-Exiting...
-
